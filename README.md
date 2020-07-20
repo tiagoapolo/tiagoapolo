@@ -16,5 +16,5 @@ Follow me on **[Twitter](https://twitter.com/tiagoapolo)** <img src="https://ico
 ### My personal projects 👨‍💻
 
 - [Shelf Object Recognition Model using SSD](https://github.com/tiagoapolo/shelf_object_recognition)
-- Looking for projects to collaborate
+- Looking for projects to collaborate on
 
