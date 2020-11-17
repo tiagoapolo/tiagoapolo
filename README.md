@@ -4,10 +4,6 @@
 
 I'm **Tiago Fonseca**, Software Engineer from Curitiba, Brazil.
 
-Currently, I work at **[Grupo Boticário](https://www.grupoboticario.com.br/)**. Also, if you wanna join us in the
-mission of creating beauty, check our [open
-positions](https://grupoboticario.csod.com/ux/ats/careersite/1/home?c=grupoboticario&sq=dev).
-<br><br><br>
 Follow me on **[Twitter](https://twitter.com/tiagoapolo)** <img src="https://icongr.am/devicon/twitter-original.svg?size=16&color=currentColor" />
  or **[LinkedIn](https://www.linkedin.com/in/tiago-fonseca)** <img src="https://icongr.am/devicon/linkedin-original.svg?size=16&color=currentColor" /><br><br>
 ### My Development Stack&nbsp;&nbsp;🥞
